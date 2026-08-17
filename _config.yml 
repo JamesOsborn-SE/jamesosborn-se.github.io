@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: James's homepage
 description: Bookmark this to keep an eye on my project updates!
 include: [".well-known", ".well-known/assetlinks.json"]
+keep_files: [".well-known", ".well-known/assetlinks.json"]
